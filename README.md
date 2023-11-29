@@ -1,0 +1,1 @@
+# amplication-community-extension
